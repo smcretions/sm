@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "23423423423",
+    "project_id": "tkreels-102de",
+    "storage_bucket": "tkreels-102de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23423423423:android:3ece0409de7f522ba50c67c",
+        "android_client_info": {
+          "package_name": "com.raccoonsquare.reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23423423423-ba6uenq5sn7jm4u6tmf4n58nb5omg6k6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raccoonsquare.reels",
+            "certificate_hash": "497d6b9cf668a5d64b7320aa7148ff706686ca51"
+          }
+        },
+        {
+          "client_id": "23423423423-qlneepbiher9h6oo7h45893nro0cvml1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.raccoonsquare.reels",
+            "certificate_hash": "e8fd1e4dd18fc3ed69df653c4cc972960e1d1a80"
+          }
+        },
+        {
+          "client_id": "23423423423-2rb6e54glpmr4hpk28r2hcgm9u440a80a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfy7ZeYQ33A6D__T8-yuKxa4Auiuop8jsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23423423423-2rb6e54glpmrhpk238r2hcgm9u440a80a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
